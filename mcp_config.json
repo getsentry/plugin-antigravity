@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "sentry": {
+      "serverUrl": "https://mcp.sentry.dev/mcp?utm_source=plugin"
+    }
+  }
+}
