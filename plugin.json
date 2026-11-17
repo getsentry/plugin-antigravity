@@ -1,7 +1,7 @@
 {
   "name": "sentry",
   "displayName": "Sentry",
-  "version": "1.4.7-dev.10.g5a5a1762",
+  "version": "1.4.7-dev.11.g307e9443",
   "description": "Set up Sentry monitoring, investigate production errors, and configure alerts and releases with expert skills and live context from your Sentry projects.",
   "logo": "assets/logo.svg",
   "suggestedPrompts": [
